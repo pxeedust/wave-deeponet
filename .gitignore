@@ -1,0 +1,13 @@
+*.mat
+__pycache__/
+*.pyc
+code.ipynb
+final_code.ipynb
+original.ipynb
+wave.ipynb
+norm_square_field_predict.ipynb
+vector_field_predict.ipynb
+*.png
+*.txt
+clean_wave_deeponet.py
+reports/
